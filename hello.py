@@ -1,4 +1,3 @@
-c = 'Hello'
-v = 'World'
-274 = ' and Computer Vision'
-print(c + v + 274)
+c = 'Hello, '
+v = 'World!'
+print(c + v)
